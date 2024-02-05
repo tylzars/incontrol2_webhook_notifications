@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <!--<meta http-equiv="refresh" content="30">-->
+<meta name="author" content="Tyler Zars">
+
 <body>
     <p>HI!</p>
 
